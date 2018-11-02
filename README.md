@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello. It's time to start Christmas shopping. Wish me luck.
